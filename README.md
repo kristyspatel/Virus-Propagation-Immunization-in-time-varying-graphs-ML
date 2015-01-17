@@ -11,7 +11,7 @@ Goals of the Project:
 
 Analyze the propagation of a virus in a network and prevent a network-wide epidemic
 
--- Analyze and understand a virus propagation model.
--- Calculate the effective strength of a virus.
--- Simulate the propagation of a virus in a network.
--- Implement immunization policies to prevent a virus from spreading across a network.
+* Analyze and understand a virus propagation model.
+* Calculate the effective strength of a virus.
+* Simulate the propagation of a virus in a network.
+* Implement immunization policies to prevent a virus from spreading across a network.
