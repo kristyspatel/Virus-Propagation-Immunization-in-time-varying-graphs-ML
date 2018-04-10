@@ -1,7 +1,7 @@
 Virus-Propagation
 =================
 
-Simulation of virus propagation and immunization in Static and time varying networks.
+Simulation of virus propagation and immunization in Static and time varying Graphs.
 [Clik Here](http://www.cs.cmu.edu/~christos/PUBLICATIONS/PKDD2010VirusProp.pdf) for paper.
 
 A fundamental problem in epidemiology is determining whether a virus will result in an epidemic (that is, if it will 
